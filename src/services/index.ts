@@ -25,6 +25,7 @@ api.defaults.transformRequest = (data) => {
     return qs.stringify(data, { encode: true });
 };
 
+// 请求拦截
 api.interceptors.request.use((config) => {
     return config;
 });

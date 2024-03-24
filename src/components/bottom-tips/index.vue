@@ -1,5 +1,5 @@
 <!--
- * @author: Tusi
+ * @author: Sxw
  * @description: 自己实现一个底部提示组件，a-divider 太逗了
 -->
 

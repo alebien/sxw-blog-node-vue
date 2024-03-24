@@ -17,7 +17,7 @@
         "source.fixAll.stylelint": "explicit"
     },
     "fileheader.customMade": {
-        "author": "Tusi", // 换成自己名字
+        "author": "Sxw", // 换成自己名字
         "description": "请填写该文件的用途"
     },
     "fileheader.configObj": {
@@ -36,5 +36,6 @@
                 }
             }
         }
-    }
+    },
+    "svn.ignoreMissingSvnWarning": true
 }

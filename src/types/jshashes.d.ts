@@ -1,5 +1,5 @@
 /**
- * @author: Tusi
+ * @author: Sxw
  * @description: jshashes类型定义
  */
 declare module "jshashes" {

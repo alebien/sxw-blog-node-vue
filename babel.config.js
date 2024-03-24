@@ -1,5 +1,5 @@
 /**
- * @author: Tusi
+ * @author: Sxw
  * @description: babel配置
  */
 module.exports = {

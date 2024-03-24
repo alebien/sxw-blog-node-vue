@@ -1,5 +1,5 @@
 <!--
- * @author: Tusi
+ * @author: Sxw
  * @description: 在线聊天室
 -->
 <template>

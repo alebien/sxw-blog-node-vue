@@ -1,5 +1,5 @@
 /**
- * @author: Tusi
+ * @author: Sxw
  * @description: stylelint配置
  */
 module.exports = {

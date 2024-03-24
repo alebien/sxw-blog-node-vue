@@ -1,5 +1,5 @@
 /**
- * @author: Tusi
+ * @author: Sxw
  * @description: 文章服务
  */
 import { ApiService } from "@/services/index";

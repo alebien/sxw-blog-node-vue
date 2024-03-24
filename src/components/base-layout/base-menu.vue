@@ -2,7 +2,7 @@
     <section class="base-menu" :class="{ 'is-visible': isVisible }">
         <ul class="menu__list">
             <li class="menu__header">
-                <h2>Tusi博客</h2>
+                <h2>Sxw博客</h2>
                 <div class="avatar-wrap">
                     <div class="avatar-mask"></div>
                     <img class="avatar" src="@/assets/img/avatar.jpg" />

@@ -1,5 +1,5 @@
 /**
- * @author: Tusi
+ * @author: Sxw
  * @description: 路由配置
  */
 import { createRouter, createWebHistory, RouteRecordRaw } from "vue-router";

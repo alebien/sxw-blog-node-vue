@@ -4,7 +4,7 @@
             <section class="footer-column">
                 <h3>关于本站</h3>
                 <p>
-                    Tusi博客，专注于前端技术分享。除特殊说明外，本站内文章均为博主原创，转载前请联系博主授权，授权后方可转载！转载时，请在显眼位置注明原文出处，谢谢合作！
+                    Sxw博客，专注于前端技术分享。除特殊说明外，本站内文章均为博主原创，转载前请联系博主授权，授权后方可转载！转载时，请在显眼位置注明原文出处，谢谢合作！
                 </p>
             </section>
             <section class="footer-column">
@@ -27,7 +27,7 @@
                     />
                     <el-image
                         :src="mpQrcode"
-                        title="小程序-Tusi博客"
+                        title="小程序-Sxw博客"
                         class="qrcode"
                         lazy
                         :preview-src-list="[publicAccoutQrcode, mpQrcode]"
@@ -61,13 +61,13 @@
                         <a target="_blank" href="https://jview.wbjiang.cn/">JView UI</a>
                     </a-col>
                     <a-col :span="12">
-                        <a target="_blank" href="http://hexo.wbjiang.cn">Tusi博客(Hexo版)</a>
+                        <a target="_blank" href="http://hexo.wbjiang.cn">Sxw博客(Hexo版)</a>
                     </a-col>
                     <a-col :span="12">
-                        <a target="_blank" href="https://juejin.im/user/5ca40a18f265da30b8178b31/posts">Tusi的掘金</a>
+                        <a target="_blank" href="https://juejin.im/user/5ca40a18f265da30b8178b31/posts">Sxw的掘金</a>
                     </a-col>
                     <a-col :span="12">
-                        <a target="_blank" href="https://blog.csdn.net/weixin_41196185">Tusi的CSDN</a>
+                        <a target="_blank" href="https://blog.csdn.net/weixin_41196185">Sxw的CSDN</a>
                     </a-col>
                     <a-col :span="12">
                         <a target="_blank" href="https://www.whatled.com/">少将全栈</a>
@@ -86,7 +86,7 @@ export default defineComponent({
     setup() {
         return {
             publicAccoutQrcode: "https://qncdn.wbjiang.cn/%E5%85%AC%E4%BC%97%E5%8F%B7/qrcode_bin.jpg",
-            mpQrcode: "https://qncdn.wbjiang.cn/Tusi%E5%8D%9A%E5%AE%A2.jpg",
+            mpQrcode: "https://qncdn.wbjiang.cn/Sxw%E5%8D%9A%E5%AE%A2.jpg",
         };
     },
 });

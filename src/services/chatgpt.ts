@@ -1,5 +1,5 @@
 /**
- * @author: Tusi
+ * @author: Sxw
  * @description: ChatGPT服务
  */
 import { PlainResponse } from "@/bean/xhr";

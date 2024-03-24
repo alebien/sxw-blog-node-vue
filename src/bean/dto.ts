@@ -1,5 +1,5 @@
 /**
- * @author: Tusi
+ * @author: Sxw
  * @description: DTO
  */
 import { PlainObject } from "./base";

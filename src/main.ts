@@ -1,5 +1,5 @@
 /**
- * @author: Tusi
+ * @author: Sxw
  * @description: 入口文件
  */
 import "./styles/index.scss";

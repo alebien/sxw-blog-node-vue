@@ -2,7 +2,7 @@
     <section class="jumpout__wrapper">
         <div class="jumpout__content">
             <img class="logo" src="@/assets/img/logo2.png" />
-            <p>您即将离开Tusi博客，请确认目标网站链接，保护好您的个人信息和资产安全！</p>
+            <p>您即将离开Sxw博客，请确认目标网站链接，保护好您的个人信息和资产安全！</p>
             <p>{{ $route.params.target }}</p>
             <a-space>
                 <a-button @click="goback" type="primary" ghost size="small">返回博客</a-button>

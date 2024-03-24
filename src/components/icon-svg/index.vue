@@ -1,5 +1,5 @@
 <!--
- * @author: Tusi
+ * @author: Sxw
  * @description: 矢量图标组件
 -->
 <script lang="tsx">

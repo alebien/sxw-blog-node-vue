@@ -1,5 +1,5 @@
 /**
- * @author: Tusi
+ * @author: Sxw
  * @description: 全局按需引入 antd 组件，对于特别需要优化的情况，可以拆出部分组件到特定页面加载
  */
 import { App } from "vue";

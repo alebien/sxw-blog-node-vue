@@ -1,5 +1,5 @@
 <!--
- * @author: Tusi
+ * @author: Sxw
  * @description: App
 -->
 <template>
@@ -15,13 +15,13 @@ import { computed, defineComponent } from "vue";
 import { useStore } from "vuex";
 import zhCN from "ant-design-vue/es/locale/zh_CN";
 import { useRoute } from "vue-router";
-import { ConfigProvider } from "ant-design-vue";
+// import { ConfigProvider } from "ant-design-vue";
 import { key } from "@/store";
 
 export default defineComponent({
-    components: {
-        [ConfigProvider.name]: ConfigProvider,
-    },
+    // components: {
+    //     [ConfigProvider.name]: ConfigProvider,
+    // },
     setup() {
         // vuex
         const store = useStore(key);

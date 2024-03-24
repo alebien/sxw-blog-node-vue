@@ -1,5 +1,5 @@
 /**
- * @author: Tusi
+ * @author: Sxw
  * @description: xhr相关类型定义
  */
 import { PlainObject, PrimitiveType } from "./base";

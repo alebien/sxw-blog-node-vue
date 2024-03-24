@@ -1,5 +1,5 @@
 <!--
- * @author: Tusi
+ * @author: Sxw
  * @description: 文章详情
 -->
 <template>
@@ -10,7 +10,7 @@
                     <header class="article__header">
                         <img class="avatar" src="@/assets/img/avatar.jpg" />
                         <div class="article__infos">
-                            <span class="author">Tusi</span>
+                            <span class="author">Sxw</span>
                             <sup class="role-tag">博主</sup>
                             <div>
                                 <time>发布于{{ formattedTime }}</time>
@@ -30,7 +30,7 @@
                         <p>
                             本文链接：<a :href="postLink">{{ postLink }}</a>
                             <br />
-                            版权声明：本文由<strong>Tusi</strong>原创，发表于{{ formattedTime }}，如需转载，请联系作者授权！
+                            版权声明：本文由<strong>Sxw</strong>原创，发表于{{ formattedTime }}，如需转载，请联系作者授权！
                         </p>
                     </div>
                     <div class="reward__wrapper">

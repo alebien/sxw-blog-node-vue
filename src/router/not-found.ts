@@ -1,5 +1,5 @@
 /**
- * @author: Tusi
+ * @author: Sxw
  * @description: 404路由
  */
 import { RouteRecordRaw } from "vue-router";
